@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Maxim
+I'm a freelance software developer from the Netherlands.
 
 <!--
 **vananasun/vananasun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
